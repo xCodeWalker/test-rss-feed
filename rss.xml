@@ -6,16 +6,7 @@
         <description>Testing RSS feed for jobs</description>
         <language>en</language>
         
-        <item>
-            <title>Software Engineer (m/f/d)</title>
-            <link>https://www.example.com/jobs/software-engineer</link>
-            <description>Looking for a software engineer...</description>
-            <pubDate>Wed, 12 Mar 2025 10:00:00 GMT</pubDate>
-            <guid isPermaLink="true">https://www.example.com/jobs/software-engineer</guid>
-            <author>hr@example.com</author>
-            <category>IT</category>
-        </item>
-        
+     
         <item>
             <title>Empfang (m/f/d)</title>
             <link>https://www.example.com/jobs/empfang</link>
