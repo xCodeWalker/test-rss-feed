@@ -10,13 +10,14 @@
             <title>Software Engineer (m/f/d)</title>
             <link>https://www.example.com/jobs/software-engineer</link>
             <description>Looking for a software engineer...</description>
-            <pubDate>Wed, 12 Mar 2025 10:00:00 +0000</pubDate>
+            <pubDate>Wed, 12 Mar 2025 10:00:00 GMT</pubDate>
         </item>
-         <item>
+        
+        <item>
             <title>Empfang (m/f/d)</title>
-            <link>https://www.example.com/jobs/software-engineer</link>
+            <link>https://www.example.com/jobs/empfang</link>
             <description>Das ist eine Empfangsbeschreibung</description>
-            <pubDate>Wed, 12 Mar 2025 10:00:00 +0000</pubDate>
+            <pubDate>Wed, 12 Mar 2025 11:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
